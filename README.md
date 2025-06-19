@@ -9,7 +9,7 @@ Step-by-step setup guide for PostgreSQL on Pop!_OS
 
    #### Install PostgreSQL Common Utilities
    ### These are essential tools for managing multiple PostgreSQL versions.  
-     Use the command: `sudo apt install -y postgresql-common`
+     sudo apt install -y postgresql-common
 
   #### Enable the PostgreSQL APT Repository Setup Script
   ###### This script prepares your system to install PostgreSQL from the official source.
